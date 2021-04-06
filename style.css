@@ -1,0 +1,182 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%
+}
+
+/*=====HOME-PAGE-MENU=====*/
+
+.home-menu-item {
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color:blanchedalmond;
+    font-weight: bold;
+    font-size: 25px;
+    border: 5px solid whitesmoke;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%; 
+}
+
+.body-home {
+    background-image: url('images/background-01-port.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-family: cursive;
+    text-align: center;
+}
+.meals-list a {
+    text-decoration: none;
+}
+
+.meals-list-item {
+    border: 5px solid black;
+    margin: 10px;
+}
+
+.meals-list-item h1 {
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    padding-left: 5px;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+body {
+    background-image: url('images/background-01-port.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: lightslategrey;
+}
+
+
+/*=====HEADER=====*/
+
+.header {
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 50px;;
+    top: 0;
+    position: fixed;
+    overflow: hidden;
+    text-align: center;
+}
+
+.header i {
+    float: left;
+    padding: 17px 0px 0px 17px;
+    color: wheat;
+}
+
+
+/*=====MEALS PAGE=====*/
+
+#meals {
+    padding-top: 50px;
+}
+
+/*=====DRINKS PAGE=====*/
+#drinks {
+    padding-top: 50px;
+}
+
+/*=====DESSERTS PAGE=====*/
+#desserts {
+    padding-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: azure;
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 100px;
+}
+
+h3 {
+    text-align: left;
+    color: black;
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 30px;
+}
+
+
+/*=====RECIPE PAGE=====*/
+
+.recipe-details img {
+    width:100%;
+}
+
+
+.recipe-details h1 {
+    font-size: 25px;
+    text-align: center;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 5px;
+}
+
+#recipe {
+    padding-top: 50px;
+}
+
+
+.recipe-details-info {
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+
+.recipe-details-info p
+{
+    font-size: 13px;
+        
+}
+
+.recipe-details-steps {
+    padding-top: 20px ;
+}
+
+.recipe-details-steps ol {
+    padding-left: 28px;
+}
+
+body {
+    background-image: url('image/background-02-port');
+}
+
+#home-logo-img {
+    width: 70px;
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#home-logo-text {
+    width: auto;
+    margin: auto;
+    display: block;
+    padding-bottom: 10px;
+}
+
+
+
+
+
